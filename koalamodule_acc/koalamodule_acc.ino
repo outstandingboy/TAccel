@@ -17,7 +17,7 @@ void setup() {
 }
 
 void loop() {
-  mymodule.toPosition(20,60000);
+  mymodule.toPosition(20,36000);
   delay(200);
   mymodule.toPosition(40,36000);
   delay(200);
