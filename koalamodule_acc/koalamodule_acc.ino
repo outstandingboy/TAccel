@@ -1,4 +1,4 @@
-4#include "koalamodule.h"
+#include "koalamodule.h"
 
 koalamodule mymodule;
 //koalamodule mymodule2;
@@ -29,7 +29,7 @@ void loop() {
   delay(200);
   mymodule.toPosition(120,36000);
   delay(200);
-  mymodule.toPosition(140,362000);
+  mymodule.toPosition(140,36000);
   delay(200);
   mymodule.toPosition(160,36000);
   delay(200);
