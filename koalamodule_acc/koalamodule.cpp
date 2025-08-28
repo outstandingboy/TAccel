@@ -5,7 +5,7 @@
 //  支持步进电机1500转运行，在每毫米100脉冲的直线模组上实现600mm/s速度
 //-----------------------------------------------------------------
 
-#include "koalamodule.h"
+#include <koalamodule.h>
   //快速开平方倒数算法
   float Q_rsqrt(float number){
   long i;
@@ -240,6 +240,7 @@
     STEPSPERMM=kmp;
 
  }
+
 
 
 
