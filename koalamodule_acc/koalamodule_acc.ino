@@ -1,4 +1,4 @@
-#include "koalamodule.h"
+#include <koalamodule.h>
 
 koalamodule mymodule;
 //koalamodule mymodule2;
